@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buttonCreater", "buttonCreater\buttonCreater.csproj", "{7C6624B8-89CF-43FC-9ADC-A73398545018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "Dice\Dice.csproj", "{F000C8B0-ED84-458B-AA55-BF92E7EAF954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6624B8-89CF-43FC-9ADC-A73398545018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6624B8-89CF-43FC-9ADC-A73398545018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6624B8-89CF-43FC-9ADC-A73398545018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6624B8-89CF-43FC-9ADC-A73398545018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F000C8B0-ED84-458B-AA55-BF92E7EAF954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F000C8B0-ED84-458B-AA55-BF92E7EAF954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F000C8B0-ED84-458B-AA55-BF92E7EAF954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F000C8B0-ED84-458B-AA55-BF92E7EAF954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D808E0C3-D515-43AD-89D4-3727290A5F63}
+	EndGlobalSection
+EndGlobal
